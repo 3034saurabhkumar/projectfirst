@@ -1,5 +1,5 @@
 # projectfirst
-This is the official group for Web Designing &amp; Development Over here you can all share your views on Web Designing / Development, can share somenew ideas mean while at the same time also can share news about Website ​​Security. 
+This is the official group for Web Designing &amp; Development Over here you can all share your views on Web Designing / Development, can share somenew ideas mean while at the same time also can share news about Website Security. 
 
 Website Technologies  
 
